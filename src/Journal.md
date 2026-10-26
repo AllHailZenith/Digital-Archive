@@ -1,0 +1,1 @@
+I created the BSTNode and BinarySearchTree classes and implemented insertion. The add method compares each accession ID with the current node and moves left when the value is less than or equal to it, or right when it is greater. Comparable allows Java to compare values and determine where they belong.
