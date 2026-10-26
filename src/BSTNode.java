@@ -1,4 +1,3 @@
-
 public class BSTNode<T> {
     private T info;
     private BSTNode<T> left;
