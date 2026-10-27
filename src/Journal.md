@@ -5,3 +5,6 @@ I added a height method that checks both subtrees and returns the larger height 
 
 Phase 3
 I added inorder and preorder traversal methods to display the accession IDs. Inorder visits the left subtree, the current node, and then the right subtree, which prints the IDs in sorted order. Preorder visits the current node before its left and right subtrees.
+
+Phase 4
+Testing confirmed that the empty tree has a height of -1 and the single-node tree has a height of 0. Inserting sorted IDs created a right-skewed tree with a height of 3, while the original sample tree had a height of 2. This showed me that inserting sorted values can make a binary search tree less balanced.
